@@ -1,0 +1,16 @@
+body
+{
+	background: #f7f7f7;
+}
+
+h1{
+	width: 800px;
+	border-radius: 20px;
+	margin: 200px auto;
+	background: rgb(220, 220, 220);
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: normal;
+	font-size: 48px;
+
+}
